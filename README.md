@@ -1,5 +1,5 @@
-# hello-earth
+# hello-venus
 
-Hi Humans!
+Hi Aliens!
 
-This is just a test repository to explore the features of github. 
+I'm just making another change here to see how this thing actually works.  
